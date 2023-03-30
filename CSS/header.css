@@ -1,0 +1,40 @@
+header{
+font-family: sans-serif;
+}
+.titulo__header{
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+}
+.subtitulo__header{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.sobre__nos{
+    display: flex;
+    justify-content: center;
+    color: #8E2424;
+}
+.pai__estatisticas{
+    display: flex;
+    width: 1200px;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+    gap: 50px;
+
+}
+.numeros{
+    color: #8E2424;
+    font-size: 60px;
+}
+.texto__estatisticas{
+    font-size: 15px;
+}

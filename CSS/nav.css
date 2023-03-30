@@ -1,0 +1,49 @@
+nav{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 2000px;
+height: 80px;
+font-family: sans-serif;
+     }
+.titulo{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0px ;
+    margin-right: 360px;
+}
+.nav__bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    margin-left: 80px;
+    margin-right: 80px;
+    gap: 24px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.cadastrar{
+color: #FFFFFF;
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 10px 18px;
+gap: 8px;
+
+width: 112px;
+height: 44px;
+margin-left: 24px;
+
+background: #8E2424;
+border: 1px solid #8E2424;
+border-radius: 8px;
+}
+.entrar{
+    display:flex;
+    justify-content:flex-end;
+    margin-left: 360px;
+}
